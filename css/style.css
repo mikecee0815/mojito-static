@@ -1,7 +1,14 @@
 
+.social {
+    padding-left:25px;
+    padding-right:25px;
+}
 .phone {
     font-size: 3.0rem;
     margin-bottom: 30px;
+}
+footer .phone {
+    line-height: 0;
 }
 
 .jumbotron{
