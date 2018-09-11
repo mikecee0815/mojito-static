@@ -1,7 +1,12 @@
 
+.phone {
+    font-size: 3.0rem;
+    margin-bottom: 30px;
+}
 
-
-
+.jumbotron{
+    margin-bottom: 5px;
+}
 
 video {
     margin-bottom: 20px;
@@ -13,7 +18,6 @@ video {
 .item img {
     max-height: 320px;
 }
-
 
 
 /* justified-nav code */
